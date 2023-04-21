@@ -1,5 +1,5 @@
 ## Rock Paper Scissors
-...but with a computer as opponent  
+...but with a computer as opponent.  
 If you've been living under a __rock__ (got it? 😉😂) until now, here are the rules of this very old game:
 * rock wins against scissors; 
 * paper wins against rock; 
